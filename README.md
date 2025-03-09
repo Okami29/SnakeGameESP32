@@ -13,6 +13,7 @@ OLED Display (I2C - 4 Pins)
 - GND → GND (ESP32)
 - SDA → GPIO 21 (ESP32 I2C SDA)
 - SCL → GPIO 22 (ESP32 I2C SCL)
+
 Joystick Module
 - VRX (X-Axis) → GPIO 34 (ESP32 Analog)
 - VRY (Y-Axis) → GPIO 35 (ESP32 Analog)
